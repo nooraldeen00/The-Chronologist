@@ -34,4 +34,7 @@ This project demonstrates a strong foundation in:
 - 📱 Runs on Android devices and emulators
 
 # 🛠️ Tech Stack
-![Java-#ED8B00](https://github.com/user-attachments/assets/23853f49-c9ae-45b6-92a7-257f2a51821f)
+![Java-#ED8B00](https://github.com/user-attachments/assets/23853f49-c9ae-45b6-92a7-257f2a51821f)  ![Kotlin-#7F52FF](https://github.com/user-attachments/assets/1a440e39-32f2-4276-9564-1d57ca476322)
+
+
+
