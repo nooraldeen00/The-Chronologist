@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="93.40155"
+    android:viewportHeight="93.40155"
+    android:width="93.40155dp"
+    android:height="93.40155dp">
+    <group
+        android:translateX="-193.2992"
+        android:translateY="-133.2992">
+        <path
+            android:pathData="M194.71344 180l45.28656 -45.28656l45.28656 45.28656l-45.28656 45.28656z"
+            android:fillColor="#2EA39F"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:strokeMiterLimit="10" />
+        <path
+            android:pathData="M207.97757 212.02243v-64.04487h64.04487v64.04487z"
+            android:fillColor="#47FFF9"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:strokeMiterLimit="10" />
+        <group
+            android:scaleX="0.5"
+            android:scaleY="0.5"
+            android:translateX="232.5"
+            android:translateY="185.7688">
+            <path
+                android:pathData="M17.79297 -3.007813L17.79297 0L1.757813 0L1.757813 -2.871094L5.390625 -6.171875Q8.886719 -9.238281 10.52734 -11.13281Q12.16797 -13.02734 12.88086 -15.03906Q13.59375 -17.05078 13.59375 -19.64844L13.59375 -19.64844Q13.59375 -22.1875 12.44141 -23.51563Q11.28906 -24.84375 8.671875 -24.84375L8.671875 -24.84375Q7.636719 -24.84375 6.542969 -24.56055Q5.449219 -24.27734 4.609375 -23.80859L4.609375 -23.80859L3.925781 -20.60547L2.636719 -20.60547L2.636719 -25.64453Q6.191406 -26.48438 8.671875 -26.48438L8.671875 -26.48438Q12.96875 -26.48438 15.12695 -24.69727Q17.28516 -22.91016 17.28516 -19.64844L17.28516 -19.64844Q17.28516 -17.46094 16.43555 -15.51758Q15.58594 -13.57422 13.82813 -11.65039Q12.07031 -9.726563 8.007813 -6.269531L8.007813 -6.269531Q6.269531 -4.785156 4.316406 -3.007813L4.316406 -3.007813L17.79297 -3.007813Z"
+                android:fillColor="#000000"
+                android:strokeMiterLimit="10" />
+        </group>
+    </group>
+</vector>

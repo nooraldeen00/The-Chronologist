@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="93.40155"
+    android:viewportHeight="93.40155"
+    android:width="93.40155dp"
+    android:height="93.40155dp">
+    <group
+        android:translateX="-193.2992"
+        android:translateY="-133.2992">
+        <path
+            android:pathData="M194.71344 180l45.28656 -45.28656l45.28656 45.28656l-45.28656 45.28656z"
+            android:fillColor="#2EA39F"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:strokeMiterLimit="10" />
+        <path
+            android:pathData="M207.97757 212.02244v-64.04487h64.04487v64.04487z"
+            android:fillColor="#47FFF9"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:strokeMiterLimit="10" />
+        <group
+            android:scaleX="0.5"
+            android:scaleY="0.5"
+            android:translateX="232.5"
+            android:translateY="185.7688">
+            <path
+                android:pathData="M1.289063 -18.20313L1.289063 -18.20313Q1.289063 -22.14844 3.496094 -24.31641Q5.703125 -26.48438 9.726563 -26.48438L9.726563 -26.48438Q14.19922 -26.48438 16.2793 -23.26172Q18.35938 -20.03906 18.35938 -13.16406L18.35938 -13.16406Q18.35938 -6.582031 15.68359 -3.095703Q13.00781 0.390625 8.164063 0.390625L8.164063 0.390625Q4.980469 0.390625 2.324219 -0.2734375L2.324219 -0.2734375L2.324219 -4.804688L3.59375 -4.804688L4.277344 -1.992188Q4.902344 -1.699219 5.957031 -1.464844Q7.011719 -1.230469 8.085938 -1.230469L8.085938 -1.230469Q11.21094 -1.230469 12.89063 -3.974609Q14.57031 -6.71875 14.74609 -12.05078L14.74609 -12.05078Q11.77734 -10.39063 8.710938 -10.39063L8.710938 -10.39063Q5.253906 -10.39063 3.271484 -12.45117Q1.289063 -14.51172 1.289063 -18.20313ZM9.765625 -24.92188L9.765625 -24.92188Q4.882813 -24.92188 4.882813 -18.125L4.882813 -18.125Q4.882813 -15.13672 6.054688 -13.71094Q7.226563 -12.28516 9.6875 -12.28516L9.6875 -12.28516Q12.20703 -12.28516 14.76563 -13.32031L14.76563 -13.32031Q14.76563 -19.31641 13.58398 -22.11914Q12.40234 -24.92188 9.765625 -24.92188Z"
+                android:fillColor="#000000"
+                android:strokeMiterLimit="10" />
+        </group>
+    </group>
+</vector>

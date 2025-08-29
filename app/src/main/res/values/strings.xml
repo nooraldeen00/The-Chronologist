@@ -1,0 +1,31 @@
+<!-- CHANGE app_name to "The Chronologist" -->
+
+<resources>
+    <string name="app_name">The Chronologist</string>
+    <string name="placeholder">Placeholder Text</string>
+    <string name="levelMenu">LEVEL SELECTION</string>
+    <string name="save_icon">Saves progress</string>
+    <string name="saveData">Saved data</string>
+    <string name="accessMessage">Level has not been unlocked yet.</string>
+    <string name="saveMessage">Progress saved!</string>
+    <string name="level1Select">Selects Level 1</string>
+    <string name="level2Select">Selects Level 2</string>
+    <string name="level3Select">Selects Level 3</string>
+    <string name="level4Select">Selects Level 4</string>
+    <string name="level5Select">Selects Level 5</string>
+    <string name="level6Select">Selects Level 6</string>
+    <string name="level7Select">Selects Level 7</string>
+    <string name="level8Select">Selects Level 8</string>
+    <string name="level9Select">Selects Level 9</string>
+    <string name="level10Select">Selects Level 10</string>
+    <string name="best1">Best Time Level 1</string>
+    <string name="best2">Best Time Level 2</string>
+    <string name="best3">Best Time Level 3</string>
+    <string name="best4">Best Time Level 4</string>
+    <string name="best5">Best Time Level 5</string>
+    <string name="best6">Best Time Level 6</string>
+    <string name="best7">Best Time Level 7</string>
+    <string name="best8">Best Time Level 8</string>
+    <string name="best9">Best Time Level 9</string>
+    <string name="best10">Best Time Level 10</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- layout_height = 0 since we use layout_weight to determine the ratio of sizes for
+ each of the layout elements. Given a vertical orientation for the outermost
+ LinearLayout, layout_height fields are ignored. Top LinearLayout takes 3/4 of the
+ screen, bottom-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    tools:context="com.example.game.GameActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:padding="6dp">
+
+        <SurfaceView
+            android:id="@+id/surfaceView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/black"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/moveLeftButton"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:background="@android:color/white"
+                android:contentDescription="@string/placeholder"
+                android:onClick="moveLeft"
+                android:src="@drawable/left_arrow" />
+
+            <ImageButton
+                android:id="@+id/moveRightButton"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:background="@android:color/white"
+                android:contentDescription="@string/placeholder"
+                android:onClick="moveRight"
+                android:src="@drawable/right_arrow" />
+
+            <ImageButton
+                android:id="@+id/jumpButton"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="100dp"
+                android:background="@android:color/white"
+                android:contentDescription="@string/placeholder"
+                android:onClick="jump"
+                android:src="@drawable/jump_arrow" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

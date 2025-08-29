@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+android:background and android:foreground use the
+default background and foreground provided by Android
+Studio
+
+MAKE SURE tools:context HAS "com.example.game.MainActivity"
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.game.MainActivity"
+    android:background="@color/black"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/titleArt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="100dp"
+        android:contentDescription="@string/placeholder"
+        android:scaleType="centerInside"
+        android:src="@drawable/title_screen"
+    />
+
+    <ImageButton
+        android:id="@+id/titleButton"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBottom="@id/titleArt"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/play_start"
+        android:contentDescription="@string/placeholder"
+        android:onClick="play"
+        android:scaleType="centerInside"
+    />
+
+</RelativeLayout>
