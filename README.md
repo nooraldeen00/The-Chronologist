@@ -1,6 +1,6 @@
 # The Chronologist
 
-<img width="908" height="570" alt="title_screen" src="https://github.com/user-attachments/assets/11715181-9902-4cbd-8b32-513e81246bce" />
+<img width="300" height="300" alt="title_screen" src="https://github.com/user-attachments/assets/11715181-9902-4cbd-8b32-513e81246bce" />
 
 Collaborated with a team of five to develop The Chronologist, it reflects a strong blend of innovative game design, mobile development, and coding. The project currently includes a fully functional main menu with level selection, with future iterations focusing on expanding levels, refining mechanics, and enhancing player immersion.
 # 🎮 About the Project
