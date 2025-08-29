@@ -42,7 +42,46 @@ Tools and Frameworks:
 
 ![Android Studio-3DDC84](https://github.com/user-attachments/assets/f020b149-395e-48b0-b665-1b84e087a06b) ![Gradle-02303A](https://github.com/user-attachments/assets/b6f837ef-6709-45ad-9872-f129a5f120bd) ![AndroidX-#000000](https://github.com/user-attachments/assets/0631cfb0-8a53-493a-bda3-8f4ec841eb19) ![JUnit-25A162](https://github.com/user-attachments/assets/d31aa90c-03a9-4a1a-9870-94806648a0c4)
 
+# 🎯 Learning Outcomes 
+Through this project I gained hands-on experience in:
 
+- Android app development lifecycle
 
+- Game design principles (time mechanics, physics, and puzzle systems)
 
+- Modular coding practices and reusable components
+
+- Agile team collaboration (sprint planning, iteration, retrospectives)
+
+- Writing and running automated tests
+
+# 🚀 Future Enhancements
+
+- 🌍 Additional worlds with thematic level design
+
+- 🎭 More abilities (slow time, freeze objects)
+
+- 🔊 Soundtrack + immersive audio
+
+- 🌎 Multilingual support (English + Spanish)
+
+- 🧩 Expanded puzzles (switches, portals, moving platforms)
+
+# 👥 Team
+
+Collaborated with a team of five to develop The Chronologist. 
+
+including:
+
+- Game Design
+
+- Android Development
+
+- UI/UX Design
+
+- Testing & Debugging
+
+# 📽️ Demo
+
+https://youtu.be/NCyYruz2t68?si=NytcbOywTK7gm4-V
 
