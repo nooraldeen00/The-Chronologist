@@ -81,11 +81,8 @@ including:
 
 - Testing & Debugging
 
-# 📽️ Demo
 
-https://youtu.be/NCyYruz2t68?si=NytcbOywTK7gm4-V
-
-## 🎥 Demo
+# 🎥 Demo
 [![Watch the Demo](https://img.youtube.com/vi/NCyYruz2t68/0.jpg)](https://youtu.be/NCyYruz2t68)
 
 
