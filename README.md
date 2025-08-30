@@ -18,7 +18,7 @@ This project demonstrates a strong foundation in:
 
 - 🧩 Software engineering principles (modularity, scalability, Agile iteration)
 
-- 🧪 Testing & debugging using JUnit and Android instrumentation
+- 🧪 Testing and debugging using JUnit and Android instrumentation
 
 # 🚀 Key Features
 - 🕰️ Time-travel gameplay: rewind & fast-forward game states
@@ -79,7 +79,7 @@ including:
 
 - UI/UX Design
 
-- Testing & Debugging
+- Testing and Debugging
 
 
 # 🎥 Demo
