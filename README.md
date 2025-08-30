@@ -14,7 +14,7 @@ This project demonstrates a strong foundation in:
 
 - 📱 Mobile app development with Android Studio
 
-- 🕹️ Game design & mechanics (physics, gravity, puzzle logic)
+- 🕹️ Game design and mechanics (physics, gravity, puzzle logic)
 
 - 🧩 Software engineering principles (modularity, scalability, Agile iteration)
 
@@ -84,4 +84,8 @@ including:
 # 📽️ Demo
 
 https://youtu.be/NCyYruz2t68?si=NytcbOywTK7gm4-V
+
+## 🎥 Demo
+[![Watch the Demo](https://img.youtube.com/vi/NCyYruz2t68/0.jpg)](https://youtu.be/NCyYruz2t68)
+
 
